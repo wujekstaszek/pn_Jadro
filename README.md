@@ -1,6 +1,11 @@
 # Jadra systemu Linux - projekt by Aleksander Morgała
 Prosty menadżer zadań w systemie linux
 
+
+Wystarczy wam dowolna dystrybucja linuxa oraz kompilator c++
+Polecenia znajdują się w pliku manager.cpp
+Pomoce znajdują się w pliku Pomoce.tx
+
 Prezentacja w formie filmu - https://www.youtube.com/watch?v=9qwW-VgKIz0,
 dokumentu z przykładami - https://docs.google.com/presentation/d/1YeJ5b1pAGjtTjwa-GGi6QJ-iH_nfDCF3rQteCrKx0rE
 
