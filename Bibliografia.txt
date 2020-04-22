@@ -1,0 +1,5 @@
+1 - Polski i Angielski artykuł o jądrze systemu na wikipedii(głównie rysunki i schematy)
+2 - “Professional Linux Kernel Architecture” - Wolfgang Mauerer
+3 - https://www.tutorialspoint.com/ipc-using-message-queues 
+4 - https://kernel.org
+5 - http://man7.org/linux/man-pages
